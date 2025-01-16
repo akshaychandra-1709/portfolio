@@ -95,7 +95,8 @@ nav .navbar .menu a:hover {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background: url('https://raw.githubusercontent.com/akshaychandra-1709/portfolio/main/background.jpg') no-repeat center center/cover;
+  background: url('https://raw.githubusercontent.com/akshaychandra-1709/portfolio/main/background.jpg
+') no-repeat center center/cover;
   color: #fff;
   transition: background 0.3s ease, opacity 0.3s ease;
 }
