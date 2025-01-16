@@ -94,7 +94,8 @@ nav .navbar .menu a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url('background.jpg') no-repeat center center/cover;
+  background: url('<img src="https://raw.githubusercontent.com/akshaychandra-1709/portfolio/main/background.jpg" alt="Background">
+') no-repeat center center/cover;
   text-align: center;
   position: relative;
 }
